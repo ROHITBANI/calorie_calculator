@@ -1,1 +1,2 @@
 This web-based application allows users to input their personal details and fitness goals to receive tailored diet recommendations, including daily calorie intake and protein needs. I chose these languages because they enable a user-friendly, interactive app that runs in any web browser, making it accessible across devices.
+![Screenshot (5)](https://github.com/user-attachments/assets/5975abf6-2696-461a-929b-b7f02a383702)
